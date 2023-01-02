@@ -1,3 +1,6 @@
+#prompt is "Made in 10 minutes"
+
+
 from turtle import *
 import turtle
 
